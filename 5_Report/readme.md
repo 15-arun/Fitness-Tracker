@@ -40,7 +40,7 @@ Monitor body activity
 
 Competition is growing in fitness ans health tech worldwide.
 it may be not gives accurate result
-# 4W's and 1'H
+# 3W's and 1'H
 
 
 ## WHAT
